@@ -7,8 +7,7 @@ use Catalyst::Utils ();
 
 extends 'Catalyst::Model::Factory::PerRequest';
 
-use vars qw{$VERSION};
-BEGIN { our $VERSION = '0.001'; }
+our $VERSION = '0.001';
 
 =head1 NAME
 
