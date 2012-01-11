@@ -15,4 +15,5 @@ build_requires 'Getopt::Long';
 author_tests('t/author');
 
 auto_install;
+manifest_skip;
 WriteAll;
