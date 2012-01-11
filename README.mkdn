@@ -8,11 +8,9 @@ In your model class:
 
     package MyApp::Model::MyGengo;
     
-
     use strict;
     use parent qw( Catalyst::Model::WebService::MyGengo );
     
-
     __PACKAGE__->config({
         class           => 'WebService::MyGengo::Client'
         , public_key    => 'your API public key'
@@ -20,7 +18,6 @@ In your model class:
         , use_sandbox   => 0    # Whether to use the production site or the sandbox
         # See WebService::MyGengo::Client for other options
         });
-    
 
     1;
 
