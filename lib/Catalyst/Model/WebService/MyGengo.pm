@@ -3,7 +3,6 @@ package Catalyst::Model::WebService::MyGengo;
 use 5.008004;
 use Moose;
 use namespace::autoclean;
-use Catalyst::Utils ();
 
 extends 'Catalyst::Model::Factory::PerRequest';
 
