@@ -8,3 +8,5 @@ blib/
 pm_to_blib
 MANIFEST.bak
 svn-commit.tmp
+Catalyst-Model-WebService-MyGengo-*.tar.gz
+a
