@@ -10,7 +10,7 @@ our $VERSION = '0.001';
 
 =head1 NAME
 
-Catalyst::Plugin::Model::WebService::MyGengo - Catalyst Model providing access to the L<WebService::MyGengo> library
+Catalyst::Model::WebService::MyGengo - Catalyst Model providing access to the L<WebService::MyGengo> library
 
 =head1 SYNOPSIS
 
