@@ -10,7 +10,7 @@ our $VERSION = '0.002';
 
 =head1 NAME
 
-Catalyst::Model::WebService::MyGengo - Catalyst Model providing access to the L<WebService::MyGengo> library
+Catalyst::Model::WebService::MyGengo - Catalyst Model providing access to the WebService::MyGengo library
 
 =head1 SYNOPSIS
 
@@ -56,6 +56,8 @@ L<http://mygengo.com>
 L<WebService::MyGengo::Client>
 
 L<Catalyst::Model::Factory::PerRequest>
+
+This module on GitHub: L<https://github.com/nheinric/Catalyst--Model--WebService--MyGengo>
 
 =head1 AUTHOR
 
