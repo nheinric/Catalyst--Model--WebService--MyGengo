@@ -1,6 +1,6 @@
 # NAME
 
-Catalyst::Plugin::Model::WebService::MyGengo - Catalyst Model providing access to the [WebService::MyGengo](http://search.cpan.org/perldoc?WebService::MyGengo) library
+Catalyst::Model::WebService::MyGengo - Catalyst Model providing access to the [WebService::MyGengo](http://search.cpan.org/perldoc?WebService::MyGengo) library
 
 # SYNOPSIS
 

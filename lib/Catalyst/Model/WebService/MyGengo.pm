@@ -6,7 +6,7 @@ use namespace::autoclean;
 
 extends 'Catalyst::Model::Factory::PerRequest';
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 =head1 NAME
 

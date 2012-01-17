@@ -1,6 +1,6 @@
 NAME
-    Catalyst::Plugin::Model::WebService::MyGengo - Catalyst Model providing
-    access to the WebService::MyGengo library
+    Catalyst::Model::WebService::MyGengo - Catalyst Model providing access
+    to the WebService::MyGengo library
 
 SYNOPSIS
     In your model class:
